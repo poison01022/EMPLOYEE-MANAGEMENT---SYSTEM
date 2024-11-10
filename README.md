@@ -2,6 +2,9 @@ Employee Management System
 
 A comprehensive Employee Management System (EMS) built using MySQL, JavaScript, and HTML. This system enables administrators to manage employee information, track job details, and store personnel records in a centralized, easy-to-use interface.
 
+https://github.com/user-attachments/assets/7c91176e-0a0d-4ff6-afb0-e51cc51e5f8b
+
+
 Features
 Add Employees: Allows adding employee records with full details like name, email, address, and salary.
 Edit and Delete: Edit employee data and remove entries as needed.
