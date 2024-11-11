@@ -1,4 +1,6 @@
-#[Employee Management System]
+# Employee Management System
+
+## PROJECT REPORT (link) - https://docs.google.com/document/d/1hG_D6ls6pqbx7ZJQRnIF9hCRcmgEGQfhPUqa74RUtDc/edit?usp=sharing
 
 A comprehensive Employee Management System (EMS) built using MySQL, JavaScript, and HTML. This system enables administrators to manage employee information, track job details, and store personnel records in a centralized, easy-to-use interface.
 
